@@ -96,6 +96,7 @@ p{
 }
 .banner p{
     margin: .5rem 0 2rem;
+    color: var(--white-color);
 }
 .banner-info{
     padding: 1.5rem;
