@@ -39,7 +39,7 @@
         font-size: 1.4rem;
     }
     .package{
-        width: 90%;
+        width: 100%;
         padding: 1rem;
     }
     .newsletter .popular-section{
@@ -69,9 +69,6 @@
     }
     .place-2{
         grid-template-rows: repeat(3, 200px);
-    }
-    .package{
-        padding: 1rem;
     }
     .newsletter .popular-description{
         padding: 4rem;

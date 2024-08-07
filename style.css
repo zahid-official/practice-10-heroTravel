@@ -9,6 +9,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
     font-family: "Mulish", sans-serif;
 }
 img{
@@ -237,6 +238,17 @@ p{
 .book-package1{
     background-image: url('Images/bg3.png');
 }
+.package{
+    width: 50%;
+    padding: 4rem;
+    border-radius: 16px;
+    backdrop-filter: blur(5px);
+    border: 2px solid rgb(255, 255, 255);
+    background: rgba(255, 255, 255, 0.781);
+}
+.package1{
+    margin-left: auto;
+}
 .package ul{
     display: flex;
     align-items: center;
@@ -259,17 +271,6 @@ p{
     margin: 1.2rem 0 2rem;
     color: var(--primary-color);
 } 
-.package{
-    width: 50%;
-    padding: 4rem;
-    border-radius: 16px;
-    backdrop-filter: blur(5px);
-    border: 2px solid rgb(255, 255, 255);
-    background: rgba(255, 255, 255, 0.781);
-}
-.package1{
-    margin-left: auto;
-}
 .see-package{
     margin-top: -2%;
     text-align: center;
