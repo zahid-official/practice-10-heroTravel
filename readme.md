@@ -1,4 +1,4 @@
-# Hero Travel 🌍
+# 🌍 Hero Travel 
 
 A stunning and responsive travel website that inspires wanderlust and simplifies trip planning. This modern platform showcases breathtaking destinations, curated tour packages, and premium travel services with an elegant user interface designed to convert visitors into travelers.
 
@@ -74,4 +74,4 @@ The platform targets modern travelers seeking:
 
 ---
 
-*Hero Travel - Your gateway to extraordinary adventures since 2024*
+**Hero Travel** - *Your gateway to extraordinary adventures since 2024*
