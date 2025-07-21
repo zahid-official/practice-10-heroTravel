@@ -28,12 +28,6 @@ A stunning and responsive travel website that inspires wanderlust and simplifies
 - **Best Price Guarantee**: Competitive pricing with transparent costs
 - **Service Icons**: Visual representation of key benefits and features
 
-### 💼 Travel Packages
-- **Comprehensive Details**: Duration, group size, and location information
-- **Flexible Pricing**: Transparent range-based pricing ($1300-$1500)
-- **Package Variety**: Multiple tour options with unique visual themes
-- **Easy Booking**: One-click reservation system with clear CTAs
-
 ## 🛠️ Technologies Used
 
 ### Frontend Stack
