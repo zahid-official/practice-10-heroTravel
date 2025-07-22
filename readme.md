@@ -16,12 +16,6 @@ A stunning and responsive travel website that inspires wanderlust and simplifies
 - **Feature Highlights**: Multi-point tour benefits and comprehensive inclusions
 - **Call-to-Action**: Direct booking integration for immediate reservations
 
-### 🗺️ Destination Gallery
-- **Interactive Grid Layout**: Dynamic destination showcase with varied arrangements
-- **Hover Effects**: Smooth animations and overlay details for enhanced UX
-- **Multi-Layout Design**: Creative grid patterns for visual appeal
-- **Destination Highlights**: Featured locations with engaging previews
-
 ### 🎯 Premium Services
 - **Handpicked Hotels**: Curated accommodation selections with quality assurance
 - **World Class Service**: Premium travel experience guarantee
